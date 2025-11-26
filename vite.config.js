@@ -10,4 +10,5 @@ export default defineConfig({
       },
     }),
   ],
+  base: '/nlogin/', // <-- CONFIGURAÇÃO OBRIGATÓRIA PARA GITHUB PAGES
 })
